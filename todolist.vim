@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language: Todo list file (.todo, .td)
 " Maintainer: gd <http://nixhacks.net>
-" Latest Revision: 31 Aug 2021
+" Latest Revision: 02 Sep 2021
 
 if exists("b:current_syntax")
   finish
